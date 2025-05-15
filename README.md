@@ -1,3 +1,3 @@
 # getx_draggable_examples
 
-A new Flutter project.
+[Draggable practical examples](https://medium.com/p/a96aa8ac2d56)
